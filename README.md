@@ -14,9 +14,13 @@ Paulo henrique Nascimento,Murillo daré, Eduardo Gobbi, Luis Felipe andrade
    
 src/main/java/br/com/faesa/monitorvacina/
 ├── conexion/      → Classe de conexão com o banco (ConexaoMySQL)
+
 ├── controller/    → Controladores (UsuarioController, RelatorioController)
+
 ├── model/         → Entidades (Pessoa, Usuario)
+
 ├── principal/     → Classe Principal (menu e execução)
+
 └── utils/         → Utilitários (SplashScreen)
 
 script.sql – Script de criação do banco
