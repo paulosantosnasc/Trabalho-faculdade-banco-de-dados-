@@ -8,7 +8,7 @@ Banco de Dados: MySQL
 Padrão de Projeto: MVC (Model–View–Controller)
 
 3. Integrantes do Grupo
-Paulo henrique Nascimento,Murillo daré, Eduardo Gobbi, Luis Felipe andrade
+Paulo henrique Nascimento,Murillo daré, Eduardo Gobbi, Luis Felipe andrade e pedro henrique pires pelissari
 
 4. Estrutura do Projeto
    
